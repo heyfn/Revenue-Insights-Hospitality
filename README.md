@@ -42,13 +42,6 @@ The project uses five CSV datasets:
 - Cancellation Analysis
 - Week-on-Week (WoW) Trends
 
-## How to Use
-
-1. Clone or download this repository.
-2. Open `Revenue-Insights-in-the-Hospitality-Domain.pbix` in Microsoft Power BI Desktop.
-3. If prompted, update the data source paths to the CSV files in the `data` folder.
-4. Refresh the data if required.
-5. Explore the dashboard using the available filters and visualizations.
 
 ## Project Purpose
 
